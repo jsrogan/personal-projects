@@ -1,0 +1,1 @@
+A simple Python program to generate a random word, it's part of speech, and it's definitions. It is a precursor to an idea of linking it to a mobile interface so that individuals can expand their vocabulary easily. 

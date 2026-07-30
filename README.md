@@ -3,6 +3,7 @@ Personal coding projects which encompass my interests and commitment to sharpeni
 
 ### Security Projects
 [password-strength](/password-strength/README.md)
+
 [keylogger](/keylogger/README.md)
 
 ### GUI

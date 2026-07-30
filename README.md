@@ -7,4 +7,4 @@ Personal coding projects which encompass my interests and commitment to sharpeni
 
 ### [keylogger](/keylogger/README.md)
 
-### [word of the day](/word of the day/README.md)
+### [word of the day](https://github.com/jsrogan/personal-projects/blob/fc7d4b372c22f593837c5a991f16bf49c280da8c/word%20of%20the%20day/README.md)
